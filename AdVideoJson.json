@@ -1,6 +1,6 @@
 {
     "status": 1,
-    "data": {
+    
         "posts": [
             {
                 "file_name": "https://raw.githubusercontent.com/Escape02/Videos/master/video1.mp4",
@@ -14,6 +14,6 @@
                  "file_name": "https://raw.githubusercontent.com/Escape02/Videos/master/video3.mp4",
             }
         ]
-    },
+     ,
     "message": "sucsess"
 }
