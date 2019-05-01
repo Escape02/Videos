@@ -2,13 +2,7 @@
     "status": 1,
     "data": {
         "posts": [
-            {
-				"app_name":"ABC",
-                "file_name": "https://raw.githubusercontent.com/Escape02/Videos/master/video1.mp4",
-				"app_link":"https://play.google.com/store/apps/details?id=com.happylabs.magic",
-				"app_icon":"https://raw.githubusercontent.com/Escape02/Videos/master/images/icon1.png",
-				"app_discription":"FPS Battle the ultimate action game will take you to the real wars, where you’ll be using army "
-            } 
+            
         ]
     },
     "message": "sucsess"
