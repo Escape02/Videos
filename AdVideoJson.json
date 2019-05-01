@@ -5,25 +5,28 @@
             {
 				"app_name":"ABC",
                 "file_name": "https://raw.githubusercontent.com/Escape02/Videos/master/video1.mp4",
-				"app_link":"https://play.google.com/store/apps/details?id=com.happylabs.magic"
-				"app_icon":"https://play.google.com/store/apps/details?id=com.happylabs.magic"
+				"app_link":"https://play.google.com/store/apps/details?id=com.happylabs.magic",
+				"app_icon":"https://raw.githubusercontent.com/Escape02/Videos/master/images/icon1.png"
             },
             {
                 "app_name":"febekjfb",
                 "file_name": "https://raw.githubusercontent.com/Escape02/Videos/master/video2.mp4",
-				"app_link":"https://play.google.com/store/apps/details?id=com.happylabs.food"
+				"app_link":"https://play.google.com/store/apps/details?id=com.happylabs.food",
+				"app_icon":"https://raw.githubusercontent.com/Escape02/Videos/master/images/icon3.png"
             },
              
             {
                "app_name":"df",
                 "file_name": "https://raw.githubusercontent.com/Escape02/Videos/master/video3.mp4",
-				"app_link":"https://play.google.com/store/apps/details?id=com.videosmusicfreevideosfunnynewtr"
+				"app_link":"https://play.google.com/store/apps/details?id=com.videosmusicfreevideosfunnynewtr",
+				"app_icon":"https://raw.githubusercontent.com/Escape02/Videos/master/images/icon2.png"
             },
              
             {
                 "app_name":"AefeBC",
                 "file_name": "https://raw.githubusercontent.com/Escape02/Videos/master/video4.mp4",
-				"app_link":"https://play.google.com/store/apps/details?id=com.happylabs.magic"
+				"app_link":"https://play.google.com/store/apps/details?id=com.happylabs.magic",
+				"app_icon":"https://raw.githubusercontent.com/Escape02/Videos/master/images/icon1.png"
             }
         ]
     },
