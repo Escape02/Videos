@@ -1,142 +1,142 @@
 {
-    "error": "1",
-    "message": "Loading Success!",
-    "data": [
-        {
-            "post_id": "175",
-            "post_thumb": "http://threemartians.in/invitationmaker/upload/thumb_image/5f818a7e48527_10-10-2020__1602325118.jpg",
-            "back_image": "http://threemartians.in/invitationmaker/upload/background/5f818a7e487d9_10-10-2020__1602325118.jpg",
-            "ratio": "3:4",
-            "cat_id": "15",
-            "sticker_info": [
-                {
-                    "st_image": "http://threemartians.in/invitationmaker/upload/sticker/5582_10-10-2020__1602325118.png",
-                    "sticker_id": "1",
-                    "st_x_pos": "18.6",
-                    "st_y_pos": "25.7",
-                    "st_width": "82.6",
-                    "st_height": "98",
-                    "st_rotation": "0",
-                    "st_order": "1"
-                },
-                {
-                    "st_image": "http://threemartians.in/invitationmaker/upload/sticker/4132_10-10-2020__1602325118.png",
-                    "sticker_id": "2",
-                    "st_x_pos": "25.4",
-                    "st_y_pos": "3.4",
-                    "st_width": "75.7",
-                    "st_height": "30.1",
-                    "st_rotation": "0",
-                    "st_order": "2"
-                },
-                {
-                    "st_image": "http://threemartians.in/invitationmaker/upload/sticker/3512_10-10-2020__1602325118.png",
-                    "sticker_id": "3",
-                    "st_x_pos": "19.7",
-                    "st_y_pos": "24",
-                    "st_width": "81.4",
-                    "st_height": "35.9",
-                    "st_rotation": "0",
-                    "st_order": "3"
-                },
-                {
-                    "st_image": "http://threemartians.in/invitationmaker/upload/sticker/3632_10-10-2020__1602325118.png",
-                    "sticker_id": "4",
-                    "st_x_pos": "48.6",
-                    "st_y_pos": "68.2",
-                    "st_width": "52.4",
-                    "st_height": "80.5",
-                    "st_rotation": "0",
-                    "st_order": "4"
-                },
-                {
-                    "st_image": "http://threemartians.in/invitationmaker/upload/sticker/8511_10-10-2020__1602325118.png",
-                    "sticker_id": "5",
-                    "st_x_pos": "11.7",
-                    "st_y_pos": "51.1",
-                    "st_width": "89.4",
-                    "st_height": "76.4",
-                    "st_rotation": "0",
-                    "st_order": "5"
-                }
-            ],
-            "text_info": [
-                {
-          "text_id": "1",
-          "text": "You are invited to",
-          "font_family": "Nexa Regular.ttf",
-          "font_familyI": "Nexa Regular.ttf",
-          "txt_color": "#000000",
-          "txt_alpha": null,
-          "txt_x_pos": "366.01",
-          "txt_y_pos": "203.63",
-          "txt_width": "349.07",
-          "txt_height": "47.74",
-          "txt_bg_imag": "",
-          "txt_rotation": "0",
-          "txt_order": "6"
-        },
-        {
-          "text_id": "2",
-          "text": "the BABY  SHOWER of",
-          "font_family": "Nexa Regular.ttf",
-          "font_familyI": "Nexa Regular.ttf",
-          "txt_color": "#000000",
-          "txt_alpha": null,
-          "txt_x_pos": "309.9",
-          "txt_y_pos": "249.63",
-          "txt_width": "459.27",
-          "txt_height": "47.74 ",
-          "txt_bg_imag": "",
-          "txt_rotation": "0",
-          "txt_order": "7"
-        },
-        {
-          "text_id": "3",
-          "text": "August 16,2021",
-          "font_family": "Nexa Regular.ttf",
-          "font_familyI": "Nexa Regular.ttf",
-          "txt_color": "#000000",
-          "txt_alpha": null,
-          "txt_x_pos": "383.37",
-          "txt_y_pos": "1051.14",
-          "txt_width": "313.7",
-          "txt_height": "47.75",
-          "txt_bg_imag": "",
-          "txt_rotation": "0",
-          "txt_order": "8"
-        },
-        {
-          "text_id": "4",
-          "text": "Sunday | 3:00 pm",
-          "font_family": "Nexa Regular.ttf",
-          "font_familyI": "Nexa Regular.ttf",
-          "txt_color": "#000000",
-          "txt_alpha": null,
-          "txt_x_pos": "363.14",
-          "txt_y_pos": "1118.87",
-          "txt_width": "356.03",
-          "txt_height": "47.75",
-          "txt_bg_imag": "",
-          "txt_rotation": "0",
-          "txt_order": "9"
-        },
-        {
-          "text_id": "5",
-          "text": "James Mary",
-          "font_family": "Boank Regular.ttf",
-          "font_familyI": "Boank Regular.ttf",
-          "txt_color": "#2f809a",
-          "txt_alpha": null,
-          "txt_x_pos": "240.37",
-          "txt_y_pos": "846.83",
-          "txt_width": "597.2",
-          "txt_height": "173.97",
-          "txt_bg_imag": "",
-          "txt_rotation": "0",
-          "txt_order": "10"
-        }
-            ]
-        }
-    ]
+   "error":"1",
+   "message":"Loading Success!",
+   "data":[
+      {
+         "post_id":"175",
+         "post_thumb":"http://threemartians.in/invitationmaker/upload/thumb_image/5f818a7e48527_10-10-2020__1602325118.jpg",
+         "back_image":"http://threemartians.in/invitationmaker/upload/background/5f818a7e487d9_10-10-2020__1602325118.jpg",
+         "ratio":"3:4",
+         "cat_id":"15",
+         "sticker_info":[
+            {
+               "st_image":"http://threemartians.in/invitationmaker/upload/sticker/5582_10-10-2020__1602325118.png",
+               "sticker_id":"1",
+               "st_x_pos":"18.6",
+               "st_y_pos":"25.7",
+               "st_width":"82.6",
+               "st_height":"98",
+               "st_rotation":"0",
+               "st_order":"1"
+            },
+            {
+               "st_image":"http://threemartians.in/invitationmaker/upload/sticker/4132_10-10-2020__1602325118.png",
+               "sticker_id":"2",
+               "st_x_pos":"25.4",
+               "st_y_pos":"3.4",
+               "st_width":"75.7",
+               "st_height":"30.1",
+               "st_rotation":"0",
+               "st_order":"2"
+            },
+            {
+               "st_image":"http://threemartians.in/invitationmaker/upload/sticker/3512_10-10-2020__1602325118.png",
+               "sticker_id":"3",
+               "st_x_pos":"19.7",
+               "st_y_pos":"24",
+               "st_width":"81.4",
+               "st_height":"35.9",
+               "st_rotation":"0",
+               "st_order":"3"
+            },
+            {
+               "st_image":"http://threemartians.in/invitationmaker/upload/sticker/3632_10-10-2020__1602325118.png",
+               "sticker_id":"4",
+               "st_x_pos":"48.6",
+               "st_y_pos":"68.2",
+               "st_width":"52.4",
+               "st_height":"80.5",
+               "st_rotation":"0",
+               "st_order":"4"
+            },
+            {
+               "st_image":"http://threemartians.in/invitationmaker/upload/sticker/8511_10-10-2020__1602325118.png",
+               "sticker_id":"5",
+               "st_x_pos":"11.7",
+               "st_y_pos":"51.1",
+               "st_width":"89.4",
+               "st_height":"76.4",
+               "st_rotation":"0",
+               "st_order":"5"
+            }
+         ],
+         "text_info":[
+            {
+               "text_id":"1",
+               "text":"You are invited to",
+               "font_family":"Nexa Regular.ttf",
+               "font_familyI":"Nexa Regular.ttf",
+               "txt_color":"#000000",
+               "txt_alpha":null,
+               "txt_x_pos":"366.01",
+               "txt_y_pos":"203.63",
+               "txt_width":"349.07",
+               "txt_height":"47.74",
+               "txt_bg_imag":"",
+               "txt_rotation":"0",
+               "txt_order":"6"
+            },
+            {
+               "text_id":"2",
+               "text":"the BABY  SHOWER of",
+               "font_family":"Nexa Regular.ttf",
+               "font_familyI":"Nexa Regular.ttf",
+               "txt_color":"#000000",
+               "txt_alpha":null,
+               "txt_x_pos":"309.9",
+               "txt_y_pos":"249.63",
+               "txt_width":"459.27",
+               "txt_height":"47.74 ",
+               "txt_bg_imag":"",
+               "txt_rotation":"0",
+               "txt_order":"7"
+            },
+            {
+               "text_id":"3",
+               "text":"August 16,2021",
+               "font_family":"Nexa Regular.ttf",
+               "font_familyI":"Nexa Regular.ttf",
+               "txt_color":"#000000",
+               "txt_alpha":null,
+               "txt_x_pos":"383.37",
+               "txt_y_pos":"1051.14",
+               "txt_width":"313.7",
+               "txt_height":"47.75",
+               "txt_bg_imag":"",
+               "txt_rotation":"0",
+               "txt_order":"8"
+            },
+            {
+               "text_id":"4",
+               "text":"Sunday | 3:00 pm",
+               "font_family":"Nexa Regular.ttf",
+               "font_familyI":"Nexa Regular.ttf",
+               "txt_color":"#000000",
+               "txt_alpha":null,
+               "txt_x_pos":"363.14",
+               "txt_y_pos":"1118.87",
+               "txt_width":"356.03",
+               "txt_height":"47.75",
+               "txt_bg_imag":"",
+               "txt_rotation":"0",
+               "txt_order":"9"
+            },
+            {
+               "text_id":"5",
+               "text":"James Mary",
+               "font_family":"Boank Regular",
+               "font_familyI":"Boank Regular",
+               "txt_color":"#2f809a",
+               "txt_alpha":null,
+               "txt_x_pos":"240.37",
+               "txt_y_pos":"846.83",
+               "txt_width":"597.2",
+               "txt_height":"173.97",
+               "txt_bg_imag":"",
+               "txt_rotation":"0",
+               "txt_order":"10"
+            }
+         ]
+      }
+   ]
 }
