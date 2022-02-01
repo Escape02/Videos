@@ -10,7 +10,7 @@
             "cat_id": "15",
             "sticker_info": [
                 {
-                    "st_image": "upload/sticker/5582_10-10-2020__1602325118.png",
+                    "st_image": "http://threemartians.in/invitationmaker/upload/sticker/5582_10-10-2020__1602325118.png",
                     "sticker_id": "1",
                     "st_x_pos": "18.6",
                     "st_y_pos": "25.7",
@@ -20,7 +20,7 @@
                     "st_order": "1"
                 },
                 {
-                    "st_image": "upload/sticker/4132_10-10-2020__1602325118.png",
+                    "st_image": "http://threemartians.in/invitationmaker/upload/sticker/4132_10-10-2020__1602325118.png",
                     "sticker_id": "2",
                     "st_x_pos": "25.4",
                     "st_y_pos": "3.4",
@@ -30,7 +30,7 @@
                     "st_order": "2"
                 },
                 {
-                    "st_image": "upload/sticker/3512_10-10-2020__1602325118.png",
+                    "st_image": "http://threemartians.in/invitationmaker/upload/sticker/3512_10-10-2020__1602325118.png",
                     "sticker_id": "3",
                     "st_x_pos": "19.7",
                     "st_y_pos": "24",
@@ -40,7 +40,7 @@
                     "st_order": "3"
                 },
                 {
-                    "st_image": "upload/sticker/3632_10-10-2020__1602325118.png",
+                    "st_image": "http://threemartians.in/invitationmaker/upload/sticker/3632_10-10-2020__1602325118.png",
                     "sticker_id": "4",
                     "st_x_pos": "48.6",
                     "st_y_pos": "68.2",
@@ -50,7 +50,7 @@
                     "st_order": "4"
                 },
                 {
-                    "st_image": "upload/sticker/8511_10-10-2020__1602325118.png",
+                    "st_image": "http://threemartians.in/invitationmaker/upload/sticker/8511_10-10-2020__1602325118.png",
                     "sticker_id": "5",
                     "st_x_pos": "11.7",
                     "st_y_pos": "51.1",
