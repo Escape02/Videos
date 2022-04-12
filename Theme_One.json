@@ -32,9 +32,9 @@
        {
           "st_image": "https://raw.githubusercontent.com/Escape02/Videos/master/Theme%20One/layer_3.png",
           "sticker_id": "3",
-          "st_x_pos": "478",
-          "st_y_pos": "1080",
-          "st_width": "930",
+          "st_x_pos": "0",
+          "st_y_pos": "478",
+          "st_width": "1080",
           "st_height": "285",
           "st_rotation": "0",
           "st_order": "3"
