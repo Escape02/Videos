@@ -4,13 +4,13 @@
   "data": [
     {
       "post_id": "1",
-      "post_thumb": "theme_thumbnail.png",
-      "back_image": "back_image.png",
+      "post_thumb": "https://raw.githubusercontent.com/Escape02/Videos/master/Theme%20One/theme_thumbnail.png",
+      "back_image": "https://raw.githubusercontent.com/Escape02/Videos/master/Theme%20One/back_image.png",
       "ratio": "3:4",
       "cat_id": "1",
       "sticker_info": [
         {
-          "st_image": "layer_one.png",
+          "st_image": "https://raw.githubusercontent.com/Escape02/Videos/master/Theme%20One/layer_1.png",
           "sticker_id": "1",
           "st_x_pos": "0",
           "st_y_pos": "34",
@@ -20,7 +20,7 @@
           "st_order": "1"
         },
         {
-          "st_image": "layer_two.png",
+          "st_image": "https://raw.githubusercontent.com/Escape02/Videos/master/Theme%20One/layer_2.png",
           "sticker_id": "2",
           "st_x_pos": "288",
           "st_y_pos": "291",
